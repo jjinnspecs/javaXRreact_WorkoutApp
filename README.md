@@ -1,4 +1,4 @@
-﻿# javaXRreact_WorkoutApp
+﻿# javaXReact_WorkoutApp
 Frontend: React Vite
 
 Backend: Java Spring Boot
